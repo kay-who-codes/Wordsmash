@@ -45,7 +45,7 @@ const actions = [
   "Neither Letter",
   "Neologism", 
   "Made-Up Maxim",
-  "Monster (Conventional or Made-Up),
+  "Monster (Conventional or Made-Up)",
   "Synonyms",
   "Adjective + Noun",
   "Verb + Noun",
