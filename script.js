@@ -28,7 +28,25 @@ const letters = [
   "Y",
   "Z"
 ];
-const actions = ["Thing", "Name Initials", "Place Name", "Food/Drink", "Rhyming", "Opposites", "Synonyms", "Adjective + Noun", "Verb + Noun","Media (Music, Film, Game, etc)"];
+const actions = [
+  "Thing",
+  "Name Initials",
+  
+"Place Name",
+  "Food/Drink",
+  "Rhyming Words",
+  "Opposite Words",
+  "Associated Words",
+  "Dissociated Words",
+  "Middle Letters",
+  "Fist + Last Letters",
+  "Technical Term",
+  "Colour Description",
+  "Neither Letter",
+  "Synonyms",
+  "Adjective + Noun",
+  "Verb + Noun",
+  "Media (Music, Film, Game, etc)"];
 
 // DOM Elements
 const pile1 = document.getElementById("pile1");
