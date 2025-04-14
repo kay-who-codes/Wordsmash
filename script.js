@@ -31,8 +31,7 @@ const letters = [
 const actions = [
   "Thing",
   "Name Initials",
-  
-"Place Name",
+  "Place Name",
   "Food/Drink",
   "Rhyming Words",
   "Opposite Words",
